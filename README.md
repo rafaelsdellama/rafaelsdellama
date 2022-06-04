@@ -3,8 +3,12 @@ Olá, eu sou Rafael Del Lama 👋
 </h1>
 <p align='center'>
   Sou Ciêntista de Dados 👨‍💻 <br>
-  Graduado em Informática Biomédica pela Universidade de São Paulo (USP-RP) e Mestre pelo Programa de Pós-graduação em Computação Aplicada da FFCLRP/USP. Atuo na área de Inteligência Artificial, com especial interesse em Deep Learning e Machine Learning. <br> <br>
+  Graduado em Informática Biomédica pela Universidade de São Paulo (USP-RP) e Mestre pelo Programa de Pós-graduação em Computação Aplicada da FFCLRP/USP.<br>
+  Atuo na área de Inteligência Artificial, principalmente em Deep Learning e Machine Learning. <br>
 </p>
+ 
+ 
+ <img align="center" alt="GIF"  src="https://miro.medium.com/max/1400/1*TPy4pf_P1QUNVZqzngjliA.gif"/> 
  
 <div align='center'> 
   <a href = "mailto:rafaels.dellama@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -38,7 +42,7 @@ Olá, eu sou Rafael Del Lama 👋
 <!--   <img align="center" alt="Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> -->
   <img align="center" alt="k8s" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 <!--   <img align="center" alt="GitHub" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> -->
-  
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 </div>
 
  <br> 
